@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "DJ John",
+    "availability": [
+      {
+        "date": "2023-04-14",
+        "available": true
+      },
+      {
+        "date": "2023-04-15",
+        "available": true
+      },
+      {
+        "date": "2023-04-21",
+        "available": true
+      },
+      {
+        "date": "2023-04-22",
+        "available": true
+      },
+      {
+        "date": "2023-04-28",
+        "available": true
+      },
+      {
+        "date": "2023-04-29",
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "DJ Sarah",
+    "availability": [
+      {
+        "date": "2023-04-14",
+        "available": true
+      },
+      {
+        "date": "2023-04-15",
+        "available": false
+      },
+      {
+        "date": "2023-04-21",
+        "available": true
+      },
+      {
+        "date": "2023-04-22",
+        "available": true
+      },
+      {
+        "date": "2023-04-28",
+        "available": false
+      },
+      {
+        "date": "2023-04-29",
+        "available": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "DJ Mark",
+    "availability": [
+      {
+        "date": "2023-04-14",
+        "available": false
+      },
+      {
+        "date": "2023-04-15",
+        "available": true
+      },
+      {
+        "date": "2023-04-21",
+        "available": true
+      },
+      {
+        "date": "2023-04-22",
+        "available": true
+      },
+      {
+        "date": "2023-04-28",
+        "available": false
+      },
+      {
+        "date": "2023-04-29",
+        "available": true
+      }
+    ]
+  }
+]

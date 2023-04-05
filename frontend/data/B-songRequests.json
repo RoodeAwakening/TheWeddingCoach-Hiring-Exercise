@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "event_id": 1,
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson ft. Bruno Mars",
+    "played": false
+  },
+  {
+    "id": 2,
+    "event_id": 1,
+    "title": "Don't Stop Believin'",
+    "artist": "Journey",
+    "played": false
+  },
+  {
+    "id": 3,
+    "event_id": 2,
+    "title": "I Will Always Love You",
+    "artist": "Whitney Houston",
+    "played": true
+  },
+  {
+    "id": 4,
+    "event_id": 2,
+    "title": "Sweet Caroline",
+    "artist": "Neil Diamond",
+    "played": false
+  }
+]

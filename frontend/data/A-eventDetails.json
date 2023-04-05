@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "date": "2023-04-15",
+  "time": "18:00",
+  "location": "The Venue",
+  "dj": {
+    "id": 1,
+    "name": "DJ John"
+  },
+  "client": {
+    "id": 1,
+    "name": "John Smith",
+    "contact": "john.smith@gmail.com"
+  },
+  "song_requests": [
+    {
+      "id": 1,
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "played": true
+    },
+    {
+      "id": 2,
+      "title": "Don't Stop Believin'",
+      "artist": "Journey",
+      "played": false
+    }
+  ],
+  "feedback": "The DJ was great, we had an amazing time!"
+}
