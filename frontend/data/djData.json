@@ -1,0 +1,62 @@
+{
+  "clients": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "email": "john@example.com",
+      "phone": "555-1234",
+      "eventDate": "2023-05-20T18:00:00Z",
+      "eventLocation": "123 Main St, Anytown USA",
+      "eventDetails": "Wedding reception for 150 guests",
+      "budget": 5000,
+      "djId": "2",
+      "status": "pending"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "phone": "555-5678",
+      "eventDate": "2023-08-10T20:00:00Z",
+      "eventLocation": "456 Oak St, Anytown USA",
+      "eventDetails": "Birthday party for 30 people",
+      "budget": 1500,
+      "djId": null,
+      "status": "draft"
+    }
+  ],
+  "djs": [
+    {
+      "id": "1",
+      "name": "DJ Bob",
+      "email": "bob@example.com",
+      "phone": "555-1111",
+      "availability": [
+        "2023-05-20T18:00:00Z",
+        "2023-05-25T18:00:00Z",
+        "2023-06-01T18:00:00Z",
+        "2023-06-08T18:00:00Z",
+        "2023-06-15T18:00:00Z"
+      ],
+      "price": 1000,
+      "rating": 4.5,
+      "image": "https://via.placeholder.com/150x150.png?text=DJ+Bob"
+    },
+    {
+      "id": "2",
+      "name": "DJ Sarah",
+      "email": "sarah@example.com",
+      "phone": "555-2222",
+      "availability": [
+        "2023-05-20T18:00:00Z",
+        "2023-05-25T18:00:00Z",
+        "2023-06-01T18:00:00Z",
+        "2023-06-08T18:00:00Z",
+        "2023-06-15T18:00:00Z"
+      ],
+      "price": 1500,
+      "rating": 4.8,
+      "image": "https://via.placeholder.com/150x150.png?text=DJ+Sarah"
+    }
+  ]
+}

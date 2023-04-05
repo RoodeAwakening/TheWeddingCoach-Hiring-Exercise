@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "date": "2022-05-01",
+    "time": "18:00",
+    "location": "123 Main St, Anytown USA",
+    "customerName": "John Smith",
+    "customerContact": "johnsmith@email.com",
+    "djId": 1
+  },
+  {
+    "id": 2,
+    "date": "2022-06-15",
+    "time": "21:00",
+    "location": "456 Main St, Anytown USA",
+    "customerName": "Jane Doe",
+    "customerContact": "janedoe@email.com",
+    "djId": 2
+  },
+  {
+    "id": 3,
+    "date": "2022-07-04",
+    "time": "14:00",
+    "location": "789 Main St, Anytown USA",
+    "customerName": "Bob Johnson",
+    "customerContact": "bobjohnson@email.com",
+    "djId": 3
+  }
+]

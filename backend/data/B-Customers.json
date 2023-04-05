@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "paymentInfo": {
+      "cardNumber": "************1234",
+      "expirationDate": "05/23",
+      "cvv": "***"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "paymentInfo": {
+      "cardNumber": "************5678",
+      "expirationDate": "07/24",
+      "cvv": "***"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "paymentInfo": {
+      "cardNumber": "************9012",
+      "expirationDate": "11/25",
+      "cvv": "***"
+    }
+  }
+]
